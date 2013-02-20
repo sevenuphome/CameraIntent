@@ -13,6 +13,7 @@ import android.view.ViewGroup.LayoutParams;
 import android.widget.ImageView;
 
 public class CameraaaActivity extends Activity implements OnClickListener {
+	//test git
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
